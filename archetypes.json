@@ -1,0 +1,124 @@
+{
+    "arquetipos": [
+        {
+            "id": 3,
+            "nombre": "Madera 3",
+            "orientacion": "Este",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Antigüedades", "plantas"],
+                "colores": ["verde", "lila", "azul"],
+                "geometria": ["vertical ascendente"],
+                "tacto": ["Madera", "raíces", "tallos", "plantas"],
+                "olfato": ["Yerba luisa", "palmarrosa", "cedro", "sándalo", "casia", "lavanda", "menta"],
+                "sonido": ["Percusión sobre madera o cuero"]
+            },
+            "oficios_favorables": ["Salud", "Deporte", "Bienestar", "Historia"],
+            "habilidad": ["Creativos", "Ideadores", "Emprendedores", "Multifacéticos"]
+        },
+        {
+            "id": 4,
+            "nombre": "Madera 4",
+            "orientacion": "Este",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Objetos que permitan percibir el movimiento del viento como los móviles"],
+                "colores": ["verde", "lila", "multicolor como las flores"],
+                "geometria": ["rectangular ascendente"],
+                "tacto": ["madera", "hojas", "flores"],
+                "olfato": ["anís", "pino", "aromas cítricos: limón", "naranja", "mandarina"],
+                "sonido": ["Instrumentos de viento"]
+            },
+            "oficios_favorables": ["Administración", "Gestión", "Distribución", "Dosificación"],
+            "habilidad": ["Organizar", "Repartir", "Ordenar tareas", "Estabilidad","Concreción","Diligencia"]
+        },
+        {
+            "id": 9,
+            "nombre": "Fuego 9",
+            "orientacion": "Este",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Brillo", "vitrales", "caleidoscopios", "banderines"],
+                "colores": ["rojo", "amarillo", "calipso"],
+                "geometria": ["rectangular"],
+                "tacto": ["Sedosos"],
+                "olfato": ["Canela", "jazmín", "laurel"],
+                "sonido": ["Arpa", "violín", "instrumentos de cuerda", "agudos"]
+            },
+            "oficios_favorables": ["Actuación", "Artistas", "Belleza", "Estética", "Políticos"],
+            "habilidad": ["Oratoria", "Llamativos", "Carismáticos"]
+        },
+        {
+            "id": 2,
+            "nombre": "Tierra 2 - Cosecha",
+            "orientacion": "Oeste",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Mosaicos", "telares", "gredas", "cuarzos"],
+                "colores": ["café", "naranja", "rosado", "ocre"],
+                "geometria": ["cuadrada"],
+                "tacto": ["greda", "tejidos", "algodón", "lanas", "rugosas"],
+                "olfato": ["rosa", "cilantro", "vetiver", "benjuí", "vainilla"],
+                "sonido": ["instrumentos de cuerda", "carrillones de cerámica"]
+            },
+            "oficios_favorables": ["Gastronomía", "Atención al cliente", "Acompañamiento", "Coaching", "Guías", "Acompañantes vocacionales"],
+            "habilidad": ["Empatía", "Servicio", "Carisma"]
+        },
+        {
+            "id": 7,
+            "nombre": "Metal 7- Metal joven",
+            "orientacion": "Oeste",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Metales", "piedras", "minerales", "juguetes cinéticos", "futuristas"],
+                "colores": ["blanco", "dorado", "plateado", "metalizado"],
+                "geometria": ["circular"],
+                "tacto": ["lisos", "suave", "algodón", "terciopelo"],
+                "olfato": ["Frankincienso", "mirra", "elemí"],
+                "sonido": ["Percusión metálica", "carrillones de metal", "trompetas"]
+            },
+            "oficios_favorables": ["Planificación","Inversiones", "Evaluadores", "Analistas", "Urbanistas"],
+            "habilidad": ["Visualizar", "Proyectar", "Diseñar", "Planificar", "Concreción", "Materializar"]
+        },
+        {
+            "id": 6,
+            "nombre": "Metal 6 - Metal Maduro",
+            "orientacion": "Oeste",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Minerales", "símbolos o juguetes que representen viajes"],
+                "colores": ["blanco", "metalizado", "gris", "morado"],
+                "geometria": ["circular", "ovalada"],
+                "tacto": ["lisos", "suaves", "algodón", "terciopelo"],
+                "olfato": ["Frankincienso", "mirra", "elemí"],
+                "sonido": ["gong", "campanas", "cuencos tibetanos", "saxofón", "tuba"]
+            },
+            "oficios_favorables": ["Comunicaciones", "Viajes", "Altruismo", "Espiritualidad"],
+            "habilidad": ["Socialización", "Comunicación", "Conectar ideas", "Meditadores"]
+        },
+        {
+            "id": 1,
+            "nombre": "Agua 1",
+            "orientacion": "Este",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Fuentes de agua", "caracolas", "jardines zen", "cristales", "espejos", "vidrios"],
+                "colores": ["azul", "gris", "negro", "blanco"],
+                "geometria": ["irregulares", "curvas", "ondulantes"],
+                "tacto": ["lisas", "suaves", "sinuosas"],
+                "olfato": ["lima", "bergamota", "geranio", "menta", "eucalipto"],
+                "sonido": ["piano", "palo de agua", "sonidos de agua"]
+            },
+            "oficios_favorables": ["Música", "Producción", "Arte", "Dirección", "Arquitectura", "Diseño"],
+            "habilidad": ["Creatividad", "Capacidad de emprender", "Liderazgo", "Introspectivos", "Atesorar"]
+        },
+        {
+            "id": 8,
+            "nombre": "Tierra 8 - Montaña",
+            "orientacion": "Oeste",
+            "elementos_sensoriales_favorables": {
+                "vista": ["Esculturas", "objetos robustos", "pesados", "libros", "enciclopedias", "cerámica gres"],
+                "colores": ["tierra", "café", "ocre", "ladrillo", "ámbar", "negro", "gris"],
+                "geometria": ["cuadrada"],
+                "tacto": ["rugosas", "tejidos", "textiles"],
+                "olfato": ["aromas de la tierra", "mitti", "patchouli", "benjuí", "oud"],
+                "sonido": ["clarinete", "armónica", "flauta de metal", "diapasones"]
+            },
+            "oficios_favorables": ["Filosofía", "Economía", "Abogados", "Orientadores vocacionales", "Historiadores", "Diplomáticos"],
+            "habilidad": ["Reflexionar", "Discernir", "Capacidad de tomar conocimiento diverso"]
+        }
+    ]
+}
