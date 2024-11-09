@@ -7,9 +7,9 @@ import pandas as pd
 with open('archetypes.json', encoding='utf-8') as f:
     archetypes = json.load(f)['arquetipos']
 
-# Load the data from the Excel file
-norte = pd.read_excel('personas.xlsx', sheet_name='Norte')
-sur = pd.read_excel('personas.xlsx', sheet_name='Sur')
+# Load the data from the csv file
+norte = pd.read_csv('norte.csv')
+sur = pd.read_csv('sur.csv')
 
 def calculate_ming_gua(birth_year, birth_hemisphere, gender):
     if birth_hemisphere == 'HEMISFERIO NORTE':
