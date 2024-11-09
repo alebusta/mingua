@@ -1,5 +1,6 @@
-streamlit
-pandas
-json
-datetime
-openpyxl
+# Python 3.11.7
+python_version==3.11
+
+streamlit==1.33.0
+pandas==1.5.3
+openpyxl==3.0.10
